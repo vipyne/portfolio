@@ -1,0 +1,8 @@
+$my-font-color: red;
+$my-bg-color: #fff !important;
+
+a,
+body {
+  background-color: $my-bg-color;
+  color: $my-font-color;
+}
